@@ -1,3 +1,4 @@
+//hello
 package com.fstg.projetConcours.bean;
 
 import java.util.Date;
